@@ -11,3 +11,4 @@ Copy 'findspark.sh' into this bucket.
 
 ## Step 3 - Copy Jupyter notebook to bucket noted in step 1
 ## Step 4 - Run EMR create cluster from CLI
+CLI command can be found in the 'CLI_Launch' window.
