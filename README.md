@@ -1,6 +1,9 @@
 # Intro To PySpark
 
-The purpose of these snippets of code and scripts, are to make it easier to launch PySpark on Amazon EMR, while using a Jupyter Notebook style approach to learning the basics of Spark.
+The purpose of these snippets of code and scripts, are to make it easier to launch PySpark on Amazon EMR, while using a Jupyter Notebook style approach to learning the basics of Spark. Following this approach will allow you to have a permanent or peristent notebook saved in Amazon S3 for use with transient clusters.
+
+Configuration based on https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-s3.html
+
 
 # Steps Required
 Process to launch EMR cluster with PySpark and JupyterHub installed, along with pre-created notebook to get started.
