@@ -3,7 +3,7 @@
 The purpose of these snippets of code and scripts, are to make it easier to launch PySpark on Amazon EMR, while using a Jupyter Notebook style approach to learning the basics of Spark.
 
 # Steps Required
-Process to launch EMR cluster with Spark application and JupyterHub installed.
+Process to launch EMR cluster with PySpark and JupyterHub installed, along with pre-created notebook to get started.
 ## Step 1 - Create bucket that will contain your saved notebooks
 Copy the notebook into this bucket
 ## Step 2 - Create bucket that will contain the shell script used during EMR launch
