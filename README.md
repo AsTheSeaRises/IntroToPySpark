@@ -8,8 +8,6 @@ Process to launch EMR cluster with PySpark and JupyterHub installed, along with 
 Copy the notebook into this bucket
 ## Step 2 - Create bucket that will contain the shell script used during EMR launch
 Copy 'findspark.sh' into this bucket.
-
-## Step 3 - Copy Jupyter notebook to bucket noted in step 1
-## Step 4 - Run EMR create cluster from CLI
+## Step 3 - Run EMR create cluster from CLI
 CLI command can be found at IntroToPySpark/CLI_Launch
       
