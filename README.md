@@ -9,7 +9,7 @@ https://aws.amazon.com/emr/pricing/
 
 Alternatively refer to the Simple Cost Calculator to determine costs.
 
-https://calculator.s3.amazonaws.com
+https://calculator.s3.amazonaws.com/index.html
 
 
 # Prerequisites
