@@ -4,6 +4,8 @@ The purpose of these snippets of code and scripts, are to make it easier to laun
 
 Configuration based on https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-s3.html
 
+# Prerequisites
+1) AWS account (sign up) https://aws.amazon.com/
 
 # Steps Required
 Process to launch EMR cluster with PySpark and JupyterHub installed, along with pre-created notebook to get started.
