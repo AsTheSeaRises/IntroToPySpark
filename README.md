@@ -14,6 +14,9 @@ a) Log into the AWS console https://aws.amazon.com/
 
 b) Create a S3 bucket
 
+![alt text](https://docs.aws.amazon.com/AmazonS3/latest/gsg/images/create-bucket.png)
+
+
 Reference: https://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
 
 
