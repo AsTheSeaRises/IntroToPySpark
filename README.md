@@ -34,7 +34,8 @@ For information about naming buckets, see Rules for Bucket Naming in the Amazon 
 
 For Region, choose US West (Oregon) as the region where you want the bucket to reside.
 
-c) Choose Create. 
+c) Choose Create.
+
 ![alt text] https://docs.aws.amazon.com/AmazonS3/latest/gsg/images/gsg-create-bucket-name-region.png
 
 
