@@ -11,6 +11,7 @@ Alternatively refer to the Simple Cost Calculator to determine costs.
 
 https://calculator.s3.amazonaws.com/index.html
 
+**Estimated Cost**
 3 node cluster made up of m4.large instances running in London region (4 vCPU, 8Gb RAM) would cost roughly $13.59 per hour)
 
 # Prerequisites
