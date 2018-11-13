@@ -10,11 +10,11 @@ Configuration based on https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-j
 # Steps Required
 Process to launch EMR cluster with PySpark and JupyterHub installed, along with pre-created Jupyter notebook to get you started.
 ## Step 1 - Create bucket that will contain your saved notebooks
-Log into the AWS console https://aws.amazon.com/
+a) Log into the AWS console https://aws.amazon.com/
 
-Create a S3 bucket
+b) Create a S3 bucket
 
-https://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
+Reference: https://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
 
 
 
