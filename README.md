@@ -3,6 +3,14 @@
 The purpose of these snippets of code and scripts, are to make it easier to launch PySpark on Amazon EMR, while using a Jupyter Notebook style approach to learning the basics of Spark. Following this approach will allow you to have a permanent or peristent notebook saved in Amazon S3 for use with transient EMR clusters.
 
 Persistent configuration based on https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub-s3.html
+NOTE - There are costs associated with launching AWS resources. Refer to the EMR (Elastic Map Reduce) documentation for pricing information.
+
+https://aws.amazon.com/emr/pricing/
+
+Alternatively refer to the Simple Cost Calculator to determine costs.
+
+https://calculator.s3.amazonaws.com
+
 
 # Prerequisites
 1) AWS account (sign up) https://aws.amazon.com/
