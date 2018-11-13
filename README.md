@@ -36,7 +36,7 @@ For Region, choose US West (Oregon) as the region where you want the bucket to r
 
 c) Choose Create.
 
-![alt text] https://docs.aws.amazon.com/AmazonS3/latest/gsg/images/gsg-create-bucket-name-region.png
+![alt text](https://docs.aws.amazon.com/AmazonS3/latest/gsg/images/gsg-create-bucket-name-region.png)
 
 
 
