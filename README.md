@@ -55,5 +55,7 @@ Copy the notebook into this bucket
 ## Step 2 - Create bucket that will contain the shell script used during EMR launch
 Copy 'findspark.sh' into this bucket.
 ## Step 3 - Run EMR create cluster from CLI
+You can launch the EMR cluster using either AWS Cloud9, which is cloud based IDE, that also provides access to AWS CLI commands which are pre-packaged into the environment.
+
 CLI command can be found at IntroToPySpark/CLI_Launch
       
